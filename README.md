@@ -1,6 +1,6 @@
 # Awesome-Hotel-Property-Management-System
 
-# Top Hotel Property Management System (PMS) Ecosystem
+## Top Hotel Property Management System (PMS) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Hotel Property Management, Reservations, Front Desk, Housekeeping, Guest Operations & Hospitality Automation*  
