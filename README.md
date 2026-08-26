@@ -88,7 +88,7 @@ Open-source Property Management Systems and Hospitality frameworks are ideal for
 
 *The table below lists top open-source Hotel PMS, ERP, and booking engine repositories, sorted in descending order by **GitHub Star Count**.*
 
-| 📦 Repository & Owner | ⭐ Stars | 📜 License | 💻 Tech Stack | 📖 Description & Capabilities |
+| 📦 Repository & Owner | ⭐ Github_Stars | 📜 License | 💻 Tech Stack | 📖 Description & Capabilities |
 | :--- | :---: | :---: | :--- | :--- |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&label=Stars&color=white)](https://github.com/odoo/odoo/stargazers) | `LGPL-3.0` | Python, JavaScript (OWL), PostgreSQL | Full-suite open-source ERP ecosystem extensible into complete hotel operations (CRM, accounting, POS, restaurant, housekeeping, inventory, and online booking). |
 | **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&label=Stars&color=white)](https://github.com/frappe/erpnext/stargazers) | `GPL-3.0` | Python, JavaScript, MariaDB, Redis | Comprehensive business ERP offering hotel & restaurant hospitality domain modules, multi-currency billing, guest folios, procurement, and staff management. |
